@@ -17,7 +17,7 @@ This repository gathers my analytical work in **finance**, **programmation** and
 
 | Title | Topic |
 |-------|--------|
-| [AI Ethics and Accountability](./essays/Terrorisme___origines___mutations.pdf) | Exploring moral and institutional limits of automation |
+| [AI Ethics and Accountability](/research-and-projects/essays/Terrorisme___origines___mutations.pdf) | Exploring moral and institutional limits of automation |
 
 ---
 
