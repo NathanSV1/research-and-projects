@@ -9,7 +9,8 @@ This repository gathers my analytical work in **finance**, **programmation** and
 
 | Project | Description | Format |
 |----------|--------------|--------|
-| [Backtest Engine](./finance/backtest-engine) | Design of a modular backtesting framework fo multiple strategies (Python + PDF report) | Report + Code |
+| [Backtest Engine (EN)](./finance/backtest-engine) | Design of a modular backtesting framework fo multiple strategies (Python + PDF report) | Report + Code |
+| [On Market Efficiency (FR)](./finance/market_efficiency) | Discussion sur l'efficience des marchés financiers, d'un point de vu néo-libéral | Rapport |
 
 
 
@@ -17,7 +18,7 @@ This repository gathers my analytical work in **finance**, **programmation** and
 
 | Title | Topic |
 |-------|--------|
-| [AI Ethics and Accountability](/essays/Terrorisme___origines___mutations.pdf) | Exploring moral and institutional limits of automation |
+| [Terrorisme : origines et mutations](/essays/Terrorisme___origines___mutations.pdf) | Exploration de l'évolution du terrorisme, de 1793 à 2016 |
 
 ---
 
