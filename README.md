@@ -18,7 +18,7 @@ This repository gathers my analytical work in **finance**, **programmation** and
 
 | Title | Topic |
 |-------|--------|
-| [Terrorisme : origines et mutations](/essays/Terrorisme___origines___mutations.pdf) | Exploration de l'évolution du terrorisme, de 1793 à 2016 |
+| [Terrorisme : origines et mutations](geopolitics/Terrorisme___origines___mutations.pdf) | Exploration de l'évolution du terrorisme, de 1793 à 2016 |
 
 ---
 
