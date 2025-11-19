@@ -1,11 +1,11 @@
-# 🧠 Nathan Bruyere — Research & Projects
+# Nathan Bruyere — Research & Projects
 
-Welcome to my personal research and project portfolio.  
-This repository gathers my analytical work in **finance**, **programmation** and **geopolitical studies** developed during my time as an engineering & internationnal middle distance athlete student. 
+Welcome to my personal research and side project portfolio.  
+This repository gathers my analytical work in **finance**, **programmation** and **geopolitical studies** developed during my time as an engineering & internationnal middle distance athlete student at Grenoble INP, France. 
 
 ---
 
-## 📈 Finance & Quantitative Research
+## Finance & Quantitative Research
 
 | Project | Description | Format |
 |----------|--------------|--------|
@@ -14,7 +14,7 @@ This repository gathers my analytical work in **finance**, **programmation** and
 
 
 
-## 🧩 Essays & Reflections
+## Reflections
 
 | Title | Topic |
 |-------|--------|
