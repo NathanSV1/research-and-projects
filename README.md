@@ -9,8 +9,10 @@ This repository gathers my analytical work in **finance**, **programmation** and
 
 | Project | Description | Format |
 |----------|--------------|--------|
-| [Backtest Engine (EN)](./finance/backtest-engine) | Design of a modular backtesting framework fo multiple strategies (Python + PDF report) | Report + Code |
+| [Backtest Engine (EN)](./finance/mini-backtest-engine) | Design of a modular backtesting framework fo multiple mono-asset strategies | Report |
 | [On Market Efficiency (FR)](./finance/market_efficiency) | Discussion sur l'efficience des marchés financiers, d'un point de vu néo-libéral | Rapport |
+
+
 
 
 
