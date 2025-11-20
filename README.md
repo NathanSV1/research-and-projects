@@ -1,7 +1,7 @@
 # Nathan Bruyere — Research & Projects
 
 Welcome to my personal research and side project portfolio.  
-This repository gathers my analytical work in **finance**, **programmation** and **geopolitical studies** developed during my time as an engineering student & internationnal middle distance athlete at Grenoble INP, France. 
+This repository gathers my analytical work in **finance**, **programmation** and **geopolitical studies** developed during my time as an engineering student & international middle distance athlete at Grenoble INP, France. 
 
 ---
 
