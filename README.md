@@ -11,7 +11,7 @@ This repository gathers my analytical work in **finance**, **programmation** and
 |----------|--------------|--------|
 | [Backtest Engine (EN)](./finance/mini-backtest-engine) | Design of a modular backtesting framework fo multiple mono-asset strategies | Report |
 | [On Market Efficiency (FR)](./finance/market_efficiency) | Discussion sur l'efficience des marchés financiers, d'un point de vu néo-libéral | Rapport |
-| [Portfolio optimisation with the Markowitz model (FR) ](.finance/portfolio-optimisation-markowitz) | Discussion sur le modèle d'optimisation du portefeuille de Markowitz| Rapport |
+| [Portfolio optimisation with the Markowitz model (FR) ](./finance/portfolio-optimisation-markowitz) | Discussion sur le modèle d'optimisation du portefeuille de Markowitz| Rapport |
 
 
 
